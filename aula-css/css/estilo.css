@@ -1,0 +1,17 @@
+body{
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+    border: 10px white double;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+.div-roxa{
+    border: 5px black solid;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: rebeccapurple;
+    color: white; 
+}
